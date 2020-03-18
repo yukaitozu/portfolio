@@ -26,3 +26,6 @@ gem 'font-awesome-sass'
 gem 'sass-globbing'
 ## Middleman sprockets
 gem 'middleman-sprockets'
+
+# Added
+gem 'bootstrap', '~> 4.4.1'
