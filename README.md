@@ -22,3 +22,4 @@ You shouldn't contribute on this fork, but if you really want, follow this guide
 
 ## License
 Same license than [lewagon/middleman-boilerplate](https://github.com/lewagon/middleman-boilerplate).
+# portfolio
