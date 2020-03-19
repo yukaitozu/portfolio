@@ -27,16 +27,18 @@ $base-height: 1.4;
 // Scheme
 $red: #EE5F5B;
 $blue: #001640;
-$yellow: #FDB631;
+$yellow: #e4b641;
 $orange: #E67E22;
-$green: #32B796;
+$green: #aed768;
 $purple: #6452BD;
-$pink: #FD96A0;
+$pink: #f3a7c4;
+$brown: #7f4625;
+$background: #faf9f6;
 
 
 // Gray scale
 $gray-darker:  lighten(#000, 13.5%); // #222
 $gray-dark:    lighten(#000, 20%);   // #333
-$gray:         rgba(200, 197, 183, 0.201); // #555
+$gray:         #4b5146; // #555
 $gray-light:   lighten(#000, 46.7%); // #777
 $gray-lighter: lighten(#000, 93.5%); // #eee
