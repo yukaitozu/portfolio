@@ -16,3 +16,35 @@ hr {
   color: $gray-dark;
   border-top: 2px solid #eeeeee;
 }
+
+.about-me {
+  margin-top: 32px;
+  padding-top: 32px;
+}
+
+.carousel-control.left {
+  background-image: none;
+
+}
+
+.carousel-control.right {
+  background-image: none;
+}
+
+h3 {
+  font-family: $base-font;
+  font-size: 24px;
+  color: $yellow;
+}
+
+h5 {
+  font-family: $title-font;
+}
+
+.footer {
+  text-align: center;
+  background-color: $background;
+  width: 100%;
+  padding-top: 32px;
+  padding-bottom: 48px;
+}
