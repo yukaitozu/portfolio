@@ -41,6 +41,15 @@ h5 {
   font-family: $title-font;
 }
 
+p {
+  font-size: 14px;
+  font-family: $base-font;
+}
+
+.extra-padding {
+  padding-bottom: 48px;
+}
+
 .footer {
   text-align: center;
   background-color: $background;
