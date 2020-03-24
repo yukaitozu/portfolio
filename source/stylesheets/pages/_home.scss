@@ -57,3 +57,23 @@ p {
   padding-top: 32px;
   padding-bottom: 48px;
 }
+
+.view-site-btn {
+  border: solid 2px $accent;
+  padding: 8px;
+  border-radius: 16px;
+  padding-left: 20px;
+  padding-right: 20px;
+  color: $gray-light;
+  text-decoration: none;
+  font-family: $base-font;
+}
+
+.view-site-btn:hover {
+  border: solid 2px $yellow;
+  color: $yellow;
+}
+
+.icons {
+  margin-bottom: 16px;
+}
