@@ -110,7 +110,28 @@ p {
 }
 
 .cocktail {
-  margin-top: 100px;
+
+}
+
+.carousel {
+  position: relative;
+}
+
+.carousel img {
+  text-shadow: 20 0 15 rgba(0, 0, 0, 25);
+}
+
+.arrow-next {
+  position: absolute;
+  right: -28px;
+  top: 157px;
+
+}
+
+.arrow-prev {
+  position: absolute;
+    left: -28px;
+    top: 157px;
 }
 
 
