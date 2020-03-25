@@ -103,3 +103,27 @@ p {
 .icon-github {
 }
 
+.cocktail {
+  margin-top: 100px;
+}
+
+
+// Phone Responsive
+@media (max-width: 450px) {
+  .hero-image {
+    width: 500px;
+    margin-bottom: -80px;
+  }
+
+  .project-card {
+    width: 80%;
+  }
+
+  .footer-icon-link {
+    display: inline-flex;
+    margin-top: 12px;
+  }
+  .line-footer {
+      display: none;
+  }
+}
