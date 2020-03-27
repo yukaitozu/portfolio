@@ -152,6 +152,25 @@ p {
     border-style: none;
 }
 
+.cc img {
+  width: 600px;
+  position: relative;
+  left: 25px;
+  top: -39px;
+}
+
+.arrow-prev-cc {
+  position: absolute;
+  left: -14px;
+  top: 215px;
+}
+
+.arrow-next-cc {
+  position: absolute;
+  left: 625px;
+  top: 215px;
+}
+
 
 // Phone Responsive
 @media (max-width: 450px) {
