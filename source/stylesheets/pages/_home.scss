@@ -31,6 +31,11 @@ hr {
   background-image: none;
 }
 
+.container {
+  margin-right: 36px;
+  margin-left: 36px;
+}
+
 h3 {
   font-family: $base-font;
   font-size: 24px;
@@ -174,7 +179,7 @@ p {
 
 // Phone Responsive
 @media (max-width: 450px) {
-  .hero-image {
+  .illustration.png {
     width: 500px;
     margin-bottom: -80px;
   }
@@ -194,7 +199,7 @@ p {
 
 // Tablet Responsive
 @media (max-width: 750px) {
-  .hero-image {
+  .illustration {
     width: 700px;
     margin-bottom: -140px;
   }
@@ -219,20 +224,6 @@ p {
     grid-row-gap: 1rem;
     padding-top: 3rem;
     padding-bottom: 0rem;
-
-    // grid-template-areas:
-    // "asImgs"
-    // "asInfo"
-    // "d1"
-    // "clImgs"
-    // "clInfo"
-    // "d2"
-    // "jcImgs"
-    // "jcInfo"
-    // "d3"
-    // "cbImgs"
-    // "cbInfo"
-    // ;
   }
 
   .project-information {
