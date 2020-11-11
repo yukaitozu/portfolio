@@ -11,7 +11,7 @@ GEM
     autoprefixer-rails (10.0.2.0)
       execjs
     backports (3.18.2)
-    bootstrap-sass (3.4.1)
+    bootstrap-sass (3.3.6)
       autoprefixer-rails (>= 5.2.1)
       sassc (>= 2.0.0)
     coffee-script (2.4.1)
