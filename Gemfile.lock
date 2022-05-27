@@ -89,7 +89,7 @@ GEM
       activesupport (>= 3.1)
     parallel (1.20.0)
     public_suffix (4.0.6)
-    rack (2.2.3)
+    rack (2.2.3.1)
     rake (13.0.1)
     rb-fsevent (0.10.4)
     rb-inotify (0.10.1)
@@ -121,7 +121,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  bootstrap-sass (~> 3.3.6)
+  bootstrap-sass
   font-awesome-sass
   jquery-middleman
   middleman (~> 4.2)
